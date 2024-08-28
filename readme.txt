@@ -7,4 +7,4 @@
 - empty - orange,
 - "Vortriebsadresse" - yellow,
 - any other value - light yellow.
-7. Rows with values in "Baustatus NE3 aus BST" column other than "In Vorbereitung" will be exported to different tabs (named "Baustatus_NE3_value")
+7. Rows with values in "Baustatus NE3 aus BST" column other than "In Vorbereitung" will be exported to different tabs (named "Baustatus_NE3_value").
